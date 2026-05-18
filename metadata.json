@@ -1,0 +1,10 @@
+{
+  "name": "Little Saint Games",
+  "description": "A minimalist portal for unblocked games featuring a carefully curated collection of web-based classics by Ivan and Anthony.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

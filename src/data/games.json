@@ -1,0 +1,146 @@
+[
+  {
+    "id": "basket-hoop",
+    "title": "Basket Hoop",
+    "description": "A fast-paced basketball shooting game where precision and timing are key to scoring the highest points.",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSm6P1Q6sTYca7xMUEJ8vBApiFAurPHPiY3g&s",
+    "iframeUrl": "https://d11jzht7mj96rr.cloudfront.net/games/2024/construct/311/basket-hoop/index-gg.html",
+    "category": "Arcade"
+  },
+  {
+    "id": "1v1-lol",
+    "title": "1v1.lol",
+    "description": "A competitive third-person shooter and building simulator. Outbuild and outshoot your opponents in intense 1v1 battles.",
+    "thumbnail": "https://holeonline.io/data/image/game/1v1lol-cover.png",
+    "iframeUrl": "https://classroom4x.dev/1v1/",
+    "category": "Action"
+  },
+  {
+    "id": "kartbros",
+    "title": "KartBros.io",
+    "description": "Engage in thrilling kart races against players from around the world. Master the tracks and use power-ups to take the lead.",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjAJwWfOp6UXxocDtZEhHUS1h8N0nhamd7-Q&s",
+    "iframeUrl": "https://kartbros.io/",
+    "category": "Arcade"
+  },
+  {
+    "id": "footballbros",
+    "title": "FootballBros.io",
+    "description": "Step onto the field in this fast-paced American football simulation. Play with strategy and skill to score touchdowns and dominate the competition.",
+    "thumbnail": "https://iogames.onl/upload/imgs/football-bros-io.jpg",
+    "iframeUrl": "https://footballbros.io/",
+    "category": "Sports"
+  },
+  {
+    "id": "baseballbros",
+    "title": "BaseballBros.io",
+    "description": "Step up to the plate and swing for the fences in this competitive baseball experience. Face off against pitchers and aim for the home run.",
+    "thumbnail": "https://baseballbrosunblocked.io/wp-content/uploads/2025/10/Baseball-Bros-Unblocked-Favicon.webp",
+    "iframeUrl": "https://baseballbros.io/",
+    "category": "Sports"
+  },
+  {
+    "id": "basketbros",
+    "title": "BasketBros.io",
+    "description": "Epic 1-on-1 basketball battles. Dunk, shoot, and outplay your rivals in this fast-paced sports arcade game.",
+    "thumbnail": "https://basketbros-game.github.io/images/logo.png",
+    "iframeUrl": "https://basketbros.io/",
+    "category": "Sports"
+  },
+  {
+    "id": "ragdoll-hit",
+    "title": "Ragdoll Hit",
+    "description": "A physics-based fighting game where you control a ragdoll character to defeat enemies using various weapons and environmental hazards.",
+    "thumbnail": "https://img.poki.com/3c892779be9dabb3589586c83ad3eeed.png",
+    "iframeUrl": "https://freetoplayz.github.io/ragdoll-hit/",
+    "category": "Action"
+  },
+  {
+    "id": "ragdoll-archers",
+    "title": "Ragdoll Archers",
+    "description": "An action-packed archery game with ragdoll physics. Shoot arrows, use unique abilities, and defeat enemies in various modes.",
+    "thumbnail": "https://bitlifeonline.github.io/ragdoll-archers/logo.jpeg",
+    "iframeUrl": "https://bitlifeonline.github.io/ragdoll-archers/",
+    "category": "Action"
+  },
+  {
+    "id": "flip-master",
+    "title": "Flip Master",
+    "description": "Master the art of trampolining! Perform frontflips, backflips, and insane jumps to become the ultimate Flip Master in this physics-based arcade game.",
+    "thumbnail": "https://play-lh.googleusercontent.com/FPs-rotjozAfWa1cnuff81LMLwV3bWSUu9hpKAhQeneflz6-HeJYEmQhj9iasISntyfWCBZr4jLmIQstlSZ3Ww",
+    "iframeUrl": "https://data.gameflare.com/games/8019/u21kShu4kIapHk/index.html",
+    "category": "Sports"
+  },
+  {
+    "id": "tomb-of-the-mask",
+    "title": "Tomb of the Mask",
+    "description": "An action-packed arcade game with a procedurally generated vertical labyrinth. Find the mystic mask and master the art of wall-climbing to survive.",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNHRR0Dx3LhBe3OA0pHR0U_VuPagdWjz1pOg&s",
+    "iframeUrl": "https://map-l.github.io/play/totm/",
+    "category": "Arcade"
+  },
+  {
+    "id": "run-3",
+    "title": "Run 3",
+    "description": "Run, jump, and float through a series of challenging tunnels in space. Gravity-defying action awaits as you navigate through the galaxy!",
+    "thumbnail": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=314,height=314,fit=cover,f=auto/d3c19e9b-9b7b-4a54-9cb5-6188a5bd7d3b/run-3-logo.png",
+    "iframeUrl": "https://lekug.github.io/tn6pS9dCf37xAhkJv/",
+    "category": "Arcade"
+  },
+  {
+    "id": "boxing-random",
+    "title": "Boxing Random",
+    "description": "A fun physics-based boxing game where every round starts with a random physics setting. Swing your arms and try to knock out your opponent!",
+    "thumbnail": "https://images.twoplayergames.org/files/games/other/Boxing_Random/boxing-random.jpg?auto=format&w=200",
+    "iframeUrl": "https://jasongamesdev.github.io/boxing-random/",
+    "category": "Sports"
+  },
+  {
+    "id": "volley-random",
+    "title": "Volley Random",
+    "description": "Experience unpredictable volleyball fun with Volley Random! Part of the popular 'Random' series, this game features changing physics, balls, and players in every round.",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf6Ua6mTf9teNcVOQTjKKA3Hy8epsBB2qW0A&s",
+    "iframeUrl": "https://rycellgames.github.io/raw/games/volleyrandom/index.html",
+    "category": "Sports"
+  },
+  {
+    "id": "basket-random",
+    "title": "Basket Random",
+    "description": "A fun and chaotic basketball game with random physics! Control your players with just one button and try to score while dealing with changing courts, balls, and players.",
+    "thumbnail": "https://play-lh.googleusercontent.com/gP8T5Z1O-ngxIloiwcBZzrzyLPYDp0R_1BDNKUDZboIRPVImeyWI8-7aExvB9gAGNKc",
+    "iframeUrl": "https://j0n12.github.io/macvg/projects/basket-random/game.html",
+    "category": "Sports"
+  },
+  {
+    "id": "soccer-random",
+    "title": "Soccer Random",
+    "description": "A fun and unpredictable 2-player soccer game with random physics! Score goals by jumping and kicking in ever-changing environments.",
+    "thumbnail": "https://play-lh.googleusercontent.com/G1PIlb6HWKSaDre0XpUcmKGps9T4iamsSlwrogB3EJzYv4bz0M2am4D17MtGzndaOOU",
+    "iframeUrl": "https://gameinclassroom.github.io/soccer-random/",
+    "category": "Sports"
+  },
+  {
+    "id": "slope",
+    "title": "Slope",
+    "description": "Drive your ball through a series of steep slopes, obstacles, and tunnels. How far can you go in this endless 3D racing game?",
+    "thumbnail": "https://play-lh.googleusercontent.com/uJn2i9h7KxYQarC_c3K4qH6o7gLtflFnhD_dN14MNkzHJ1NeNFzCL69jpB5mT0vCoQs",
+    "iframeUrl": "https://slopepro.github.io/slope/",
+    "category": "Arcade"
+  },
+  {
+    "id": "wrestle-bros",
+    "title": "Wrestle Bros",
+    "description": "Enter the ring and dominate your opponents in Wrestle Bros! This fast-paced wrestling game features unique characters, powerful moves, and intense matches. Become the ultimate champion!",
+    "thumbnail": "https://voltygames.com/wp-content/uploads/2025/07/Play-Wrestle-Bros-Online.webp",
+    "iframeUrl": "https://gameinclassroom.github.io/wrestle-bros-io/",
+    "category": "Sports"
+  },
+  {
+    "id": "paper-io-2",
+    "title": "Paper.io 2",
+    "description": "Capture as much territory as possible and become the king of the map! Slice through your opponents' trails and expand your colorful kingdom in this addictive multiplayer game.",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAvIGSGaO2qte4lK--TwXvk4Xqu383hSXGVQ&s",
+    "iframeUrl": "https://ubg17.github.io/PaperIO2/",
+    "category": "Arcade"
+  }
+]
